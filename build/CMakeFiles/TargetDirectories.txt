@@ -1,0 +1,4 @@
+/home/log/Desktop/TcpServer/build/CMakeFiles/client.dir
+/home/log/Desktop/TcpServer/build/CMakeFiles/server.dir
+/home/log/Desktop/TcpServer/build/CMakeFiles/edit_cache.dir
+/home/log/Desktop/TcpServer/build/CMakeFiles/rebuild_cache.dir
